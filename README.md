@@ -1,5 +1,5 @@
 ## Olá, eu sou o Dezin!
-- 👾 <b>Estudando Front-end</b><br>
+- 👾 <b>Estudando Front-end/Back-end</b><br>
 - 🐱‍💻 <b>Começando no mundo da programação!</b><br>
 <div align="center">
   <a href="https://github.com/dezinelias">
