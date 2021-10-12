@@ -1,6 +1,5 @@
 ## Olá, eu sou o Dezin!
 - 👾 <b>Estudando Front-end/Back-end</b><br>
-- 🐱‍💻 <b>Começando no mundo da programação!</b><br>
 <div align="center">
   <a href="https://github.com/dezinelias">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=dezinelias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
