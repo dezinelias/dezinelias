@@ -1,23 +1,21 @@
 ## Olá, eu sou o Dezin!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 - 👾 <b>Estudante de programação</b><br>
+
 <div align="center">
   <a href="https://github.com/dezinelias">
+    <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=dezinelias&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezinelias&layout=compact&theme=midnight-purple"/>
 </div>
-<div><br>
-  
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br><br><br>
-  <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />   
-  <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />   
-  <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-</div><br>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+</div>
 <center>
-  <h2>minhas redes sociais 🤘</h2>
+  <h2>Minhas redes sociais 🤘</h2>
   <div>
   <a href="https://instagram.com/ohdezin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://br.pinterest/ohdezin" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
