@@ -4,8 +4,8 @@
 <div align="center">
   <a href="https://github.com/dezinelias">
     <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=dezinelias&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezinelias&layout=compact&theme=midnight-purple"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=elkenny&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkenny&layout=compact&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
